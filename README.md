@@ -23,6 +23,6 @@ The datasets (3500 CSV files, ~4GB) are available on Google Drive:
 - MATLAB R2020+
 - Arduino IDE
 
-## 👤 Author
+## Author
 LAAZIZ Youness & KEBE Mamadou
 EOF
