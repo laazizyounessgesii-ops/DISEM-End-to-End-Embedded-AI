@@ -1,7 +1,3 @@
-# DISEM-End-to-End-Embedded-AI
-DISEM: End-to-end pipeline for intelligent diagnosis of electromechanical systems, from MATLAB modeling and data analysis to embedded AI deployment on ESP32.
-# Dans DISEM-Code/, créez README.md
-cat > README.md << 'EOF'
 # DISEM - End-to-End Embedded AI Project
 
 ## Project Structure
