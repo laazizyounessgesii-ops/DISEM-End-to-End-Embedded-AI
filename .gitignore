@@ -1,0 +1,29 @@
+# Exclure les fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Exclure les fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exclure les données (sur Google Drive)
+dataset_csv_500x7/
+*.csv
+data/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers compilés
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log

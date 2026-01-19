@@ -1,0 +1,26 @@
+{
+  "input": {
+    "name": "serving_default_features:0",
+    "dtype": "<class 'numpy.int8'>",
+    "shape": [
+      1,
+      32
+    ],
+    "quantization": {
+      "scale": 0.03557495400309563,
+      "zero_point": -2
+    }
+  },
+  "output": {
+    "name": "StatefulPartitionedCall_1:0",
+    "dtype": "<class 'numpy.int8'>",
+    "shape": [
+      1,
+      7
+    ],
+    "quantization": {
+      "scale": 0.00390625,
+      "zero_point": -128
+    }
+  }
+}
